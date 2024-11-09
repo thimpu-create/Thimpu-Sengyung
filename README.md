@@ -1,7 +1,11 @@
 # Thimpu-Sengyung
 
 # 💫 About Me:
-SaaS project for US based business using Laravel<br>I m python core , specialist in Django framwork <br>I have a good knowledge in REST api <br>
+Hi there! I'm a passionate Python developer with a strong focus on building efficient, scalable web applications. My expertise lies in Django, where I specialize in creating secure and robust applications. I also have experience with REST APIs, particularly using FastAPI for high-performance needs.
+
+In addition to Python, I'm proficient in PHP and Laravel, bringing versatility to my skillset and enabling me to work across different web frameworks.
+
+I love learning new technologies and exploring innovative solutions. Feel free to reach out if you’d like to collaborate on a project or just connect!
 
 
 ## 🌐 Socials:
