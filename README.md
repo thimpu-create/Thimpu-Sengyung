@@ -31,7 +31,7 @@ I love learning new technologies and exploring innovative solutions. Feel free t
 [![](https://visitcount.itsvg.in/api?id=thimpu-create&icon=3&color=7)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Thimpu Sengyung) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ThimpuSengyung) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
